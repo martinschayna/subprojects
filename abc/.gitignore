@@ -1,0 +1,14 @@
+*~
+*.iws
+*.iml
+*-compiled.js*
+.idea
+/node_modules
+npm-debug.log
+/dist
+karma.local.conf.js
+.tern-project
+tags
+.ctags
+ctags.cnf
+ctags.conf 

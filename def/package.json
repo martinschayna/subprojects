@@ -1,0 +1,18 @@
+{
+  "name": "def",
+  "version": "1.0.0",
+  "description": "Def subproject",
+  "main": "src/index.js",
+  "author": "ABRA",
+  "license": "MIT",
+  "scripts": {
+    "linklocal": "linklocal",
+    "install": "npm run linklocal"
+  },
+  "devDependencies": {
+    "linklocal": "^2.5.2"
+  },
+  "dependencies": {
+    "abc": "file:../abc"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "abc",
+  "version": "1.0.0",
+  "description": "Abc subproject",
+  "main": "src/index",
+  "author": "ABRA",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
