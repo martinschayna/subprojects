@@ -6,7 +6,8 @@
   "author": "ABRA",
   "license": "MIT",
   "scripts": {
-    "linklocal": "linklocal",
+    "linklocal": "linklocal --link",
+    "unlinklocal": "linklocal --unlink",
     "install": "npm run linklocal"
   },
   "devDependencies": {
